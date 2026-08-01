@@ -14,9 +14,9 @@ http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/597156
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2631
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89712
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2447
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89714
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2544
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
@@ -3642,7 +3642,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/55178
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",VSIN Sports
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/563914
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3667
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",The NBA Channel
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Locked On NBA
@@ -7713,7 +7713,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2168
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky SYFY (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2167
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Yesturday (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47847
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2144
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Really (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47805
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Kids (UK)
@@ -7751,7 +7751,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2303
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Eden (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2290
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Gold (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47777
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2275
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&W (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2145
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Laughs (UK)
@@ -7765,7 +7765,7 @@ https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/p
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47781
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pick TV (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47801
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2230
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2292
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Watch (UK)
@@ -7777,13 +7777,13 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2365
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Channel (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2302
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery History (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47766
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2301
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Science (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47767
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2300
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Turbo (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47768
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2298
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Investigation Discovery (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47782
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2266
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Investigation Discovery+ (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47783
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Mystery TV (UK)
@@ -7797,35 +7797,33 @@ https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd6670
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",World War TV (UK)
 https://blaze-fast-world-war-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-world-war-tv-amagi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Crime (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47826
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/650418
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Witness (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47833
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2177
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Documentaries (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47827
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Max (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47829
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Nature (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47830
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/103905
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Showcase (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47832
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/650417
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",History Channel (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47780
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2271
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",H2 (History Channel 2) (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2273
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",National Geographic Channel (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47794
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2240
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",NatGeo Wild (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47795
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2239
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Trace (UK)
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",MTV (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47792
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BET (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2344
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Comedy Central (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47761
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2305
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Comedy Central Extra (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47762
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2306
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Comedy (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47825
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Lifestyle (UK)
@@ -7833,9 +7831,9 @@ https://cdn4.skygo.mn/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",So.. Real (UK)
 https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Food Network (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47775
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2280
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TLC (The Learning Channel) (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47840
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2161
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Paramount Network (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2174
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Challenge (UK)
@@ -7849,13 +7847,13 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2228
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",DMAX (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2295
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47754
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/93544
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime Xtra (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47753
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Arts (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47811
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2210
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Atlantic (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47812
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2209
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Talking Pictures (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2166
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",AMC (UK)
@@ -7924,8 +7922,6 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2194
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Sports Racing (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/527483
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Sports Live+ (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47863
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Sports MIX (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2180
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Sports Golf (UK)
@@ -7953,37 +7949,37 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",talkSport (UK)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sony Channel (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47834
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2176
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sony Max (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47835
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Film4 (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47774
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2284
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Movie Spare (UK)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2151
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Movie24 (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47791
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Action (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47813
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2207
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Animation (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47814
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/587860
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Comedy (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47815
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2206
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Drama (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47816
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2205
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Family (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47817
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/650430
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Greats (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47818
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2203
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Hits (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47819
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/487358
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Premiere (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47820
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2202
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47821
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Section (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47822
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2200
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Thriller (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47823
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2198
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",QVC Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
