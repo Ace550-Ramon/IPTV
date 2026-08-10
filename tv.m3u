@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://websafety101.net:5050/cendejasgabriel@gmail.com/RSBBRxjWYQ/684565
+http://stream.cammonitorplus.net/1798/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-http://websafety101.net:5050/cendejasgabriel@gmail.com/RSBBRxjWYQ/419600
+http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
-http://websafety101.net:5050/cendejasgabriel@gmail.com/RSBBRxjWYQ/648495
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/90546
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
-http://stream.ultimate-tvservice.com:8080/dumj44/jord877/548172
+http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://stream.ultimate-tvservice.com:8080/dumj44/jord877/548173
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/87548
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
-http://stream.ultimate-tvservice.com:8080/dumj44/jord877/548177
+http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
-http://stream.ultimate-tvservice.com:8080/dumj44/jord877/548175
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/597156
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89712
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
@@ -6358,6 +6358,8 @@ http://138.121.15.230:9002/TELEMUNDO/mono.m3u8
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo Acción
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telexitos
+http://190.197.41.183/TELEXITOS/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca-TV Internacional
 http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca ADN Noticias 40
