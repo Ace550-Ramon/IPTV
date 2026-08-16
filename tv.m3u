@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://stream.cammonitorplus.net/1798/index.m3u8
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/77975
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-http://stream.cammonitorplus.net/1800/index.m3u8
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/29988
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/90546
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/4747
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
-http://stream.cammonitorplus.net/1797/index.m3u8
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/29670
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/87548
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/29754
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
-http://stream.cammonitorplus.net/1799/index.m3u8
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/77976
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/597156
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/81886
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
 https://restream-live.realiptv.to/Marky0416/2c1744538b/89712
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
