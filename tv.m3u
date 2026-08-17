@@ -46,7 +46,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/29915
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDIV-TV NBC 4 (Detroit MI)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/30052
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/29699
+http://user.scalecdn.co:8080/09145054/65339468/2690
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WMYD-TV MyNetworkTV 20 (Detroit MI)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/103378
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
@@ -1466,7 +1466,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/95180
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.vNW8wygcP4XS.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WOSU-TV PBS 34 (Columbus OH)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95278
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV CET PBS 48 (Cincinnati OH)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV "CET" PBS 48 (Cincinnati OH)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95362
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVS-TV PBS 56.1 (Detroit MI)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95381
@@ -1476,71 +1476,75 @@ https://d2jalth387y2js.cloudfront.net/test.m3u8
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95712
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTTW-DT Prime 11.2 (Chicago IL)
 http://68.251.105.81:5004/auto/v11.2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WILL-TV "Will" PBS 12 (Urbana/Champaign IL)
+http://user.scalecdn.co:8080/09145054/65339468/470361
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95380
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95583
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETC-TV Nine PBS 9 (St. Louis MO)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETC-TV "Nine" PBS 9 (St. Louis MO)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95661
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Little Rock AR)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95702
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTWU-TV PBS 11 (Topeka KS)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95186
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET PBS 46.1 (Lexington KY)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV "KET" PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-DT KET 2 Create 46.2 (Lexington KY)
+#EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-DT "KET 2" Create 46.2 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-DT KET KY 46.3 (Lexington KY)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-DT "KET KY" 46.3 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-TV KET PBS 68.1 (Louisville KY)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-TV "KET" PBS 68.1 (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-DT KET World 68.4 (Louisville KY)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-DT "KET World" 68.4 (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLVX-TV PBS 10 (Las Vegas NV)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95386
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95205
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV "Valley" PBS 18 (Bakersfield/Fresno CA)
+http://user.scalecdn.co:8080/09145054/65339468/512983
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95575
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95174
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV "SoCal" PBS 50 (Huntington Beach/Los Angeles CA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95282
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95164
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
 http://user.scalecdn.co:8080/09145054/65339468/446770
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV NJ PBS 52 (Trenton NJ)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV "NJ" PBS 52 (Trenton NJ)
 http://kstv.us:8080/N427DpynGE/7049166651/23264
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV "BTPM" PBS 17 (Buffalo NY/Toronto ON)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95382
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBS-TV PBS 16 (Watertown NY)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95287
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WXXI-TV PBS 21 (Rochester NY)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95467
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDH-TV P-CPTV PBS 24 (Hartfort CT)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDH-TV "P-CPTV" PBS 24 (Hartfort CT)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95418
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WETA-TV WETA PBS 26.1 (Washington DC)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WETA-TV "WETA PBS" 26.1 (Washington DC)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95183
-#EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-DT WETA UK 26.2 (Washington DC)
+#EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-DT "WETA UK" 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-DT PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHUT-TV PBS 32 (Washington DC)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95689
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPB-TV MPT PBS 67 (Baltimore MD)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPB-TV "MPT" PBS 67 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPT-TV MPT PBS 22 (Annapolis MD)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPT-TV "MPT" PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGBH-TV GBH PBS 2 (Boston MA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGBH-TV "GBH" PBS 2 (Boston MA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95263
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBT-TV South Florida PBS 2 (Miami FL)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBT-TV "South Florida" PBS 2 (Miami FL)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95206
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLRN-TV PBS 17 (Miami FL)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95256
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WUCF-TV PBS 24 (Orlando FL)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95419
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WJCT-TV JAX PBS 9 (Jacksonville FL)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WJCT-TV "JAX" PBS 9 (Jacksonville FL)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95327
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDU-TV PBS 3 (Tampa Bay FL)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95373
@@ -1548,13 +1552,13 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/95373
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTCA-TV PBS 2 (Minneapolis/St. Paul MN)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95436
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGTV-TV GPB PBS 30 (Atlanta GA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGTV-TV "GPB" PBS 30 (Atlanta GA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95210
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WABE-TV PBS 30 (Atlanta GA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95195
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVI-TV PBS 42 (Charlotte NC)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95226
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KAET-TV Arizona PBS 8 (Phoenix AZ)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KAET-TV "Arizona" PBS 8 (Phoenix AZ)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/102995
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLRN-TV PBS 9 (San Antonio TX)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95281
@@ -1572,13 +1576,15 @@ https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95385
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVIE-DT PBS 6.2 (Sacramento CA)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUED-TV Utah PBS 7 (Salt Lake City UT)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KIXE-TV PBS 9 (Redding/Chico CA)
+http://user.scalecdn.co:8080/09145054/65339468/470376
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUED-TV "Utah" PBS 7 (Salt Lake City UT)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/73437
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOPB-TV PBS 10 (Portland OR)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95166
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KSPS-TV PBS 7 (Spokane WA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95732
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCTS-TV Cascade PBS 9 (Seattle WA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCTS-TV "Cascade" PBS 9 (Seattle WA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95354
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBTC-TV PBS 28 (Seattle WA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95497
@@ -1588,15 +1594,15 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/95646
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95190
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WQLN-TV PBS 54 (Erie PA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/74449
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBDI-TV RM PBS 12 (Denver CO)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBDI-TV "RM" PBS 12 (Denver CO)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95321
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMVS-TV & WMVT-TV PBS 10/36 (Milwaukee WI)
 https://wmvtdt.lls.pbs.org/wmvtdt-hls.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KDIN-TV Iowa PBS 11 (Des Moines IA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KDIN-TV "Iowa" PBS 11 (Des Moines IA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95443
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUSM-TV PBS 9 (Butte MT)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95429
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KHET-TV/KMEB-TV "Hawai'i" PBS 11/10 (Honolulu HI)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95727
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",SCTV (Santa Clarita CA)
@@ -1729,7 +1735,7 @@ https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",Lompoc TAP TV Channel 25 (Lompoc CA)
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",Kern County TV (Bakerfield CA)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",Kern County TV (Bakersfield CA)
 http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",Gilroy CMAP TV Channel 17 Live Meetings (Gilroy CA)
 https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -2947,7 +2953,7 @@ https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/1920px-Rev%27n_logo.jpg" group-title="Network Channels",REV'N
 https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4XzIubTN1OA==&w=1280&h=720&master=&client=&session=e41b5984b0557c5dd14721f3159aed65&ott_provider_id=0&bitrate=3193062&variant=1&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&troute=107&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4Lm0zdTg%3D&uip=76.32.150.23&dnt=0&lmt=0&uid=&lang=en&device_model=&device_make=&device_os=&device_connection=&app_category=uncategorized&ifa_type=&site_url=&site_full_url=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Fsports%252Fcms-revn%252F&max_duration=&width=683&height=355&cb=730258875&video_duration=&mute=0&skippability=&delivery=streaming&app_name=FreeCast&app_bundle=com.freecast.watch&app_version=1.0&app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&device_id=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&geo_lat=34.2586&geo_lon=-118.4217&channelid=REV%25E2%2580%2599N&gdpr=0&us_privacy=1YNN&coppa=0&content_id=&content_series=Grassroots+Racing&content_lang=&content_season=&content_rating=&content_genre=sports&content_episode=&content_title=Grassroots+Racing&content_categories=IAB1-7&channel_name=REV%25E2%2580%2599N&network_name=&poddur=&minduration=6&ad_pod_slots=&schain=&c4=101&device_category=desktop&video_id=&ad_position=&session_id=&ad_duration=1800&format=freecast
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="Network Channels",AWE
-http://206.212.244.63/11/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/40582
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="Network Channels",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Network Channels",MeTV (West)
@@ -2991,7 +2997,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/94780
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",fetv (Family Entertainment Television)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/102487
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Great. (Entertainment Television)
-http://206.212.244.63/80/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/30928
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get TV
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get Comedy
@@ -3089,7 +3095,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/42
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Soul
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/43
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Gospel
-http://206.212.244.63/17/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/42491
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Comedy
 https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Drama
@@ -3155,8 +3161,6 @@ https://adultswim-vodlive.cdn.turner.com/daily_animated_1/stream.m3u8
 https://swimrewind.com/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",BBC Comedy
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Free Comedy Network
-https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",WITZ Comedy TV
 https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/playlist.m3u8?wurl_channel=1197
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Sketchy AF (Pluto TV)
@@ -3348,8 +3352,6 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/127
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Outlaw The Western Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Free Western Network
-https://cdn-uw2-prodv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Aspire
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/77080
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC America
@@ -3363,7 +3365,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/120
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100280
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice (East)
-http://206.212.244.63/170/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/36742
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",YouToo America
@@ -3586,7 +3588,7 @@ https://jstre.am/jsl:0sUSK6VA7GT.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",Hope Channel International
 https://jstre.am/jsl:cZXINbwrFj6.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",BYUtv
-http://206.212.244.63/28/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/734852
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",BYUtv (Alt)
 https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN His Word
@@ -3716,7 +3718,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/8233
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (California)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95749
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (Chicago)
-http://206.212.244.63/6141/index.m3u8
+http://user.scalecdn.co:8080/09145054/65339468/3771
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (Philadelphia)
 http://user.scalecdn.co:8080/09145054/65339468/3769
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (Washington)
@@ -5544,6 +5546,10 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/8805
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82753
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",RetroPlex (East)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82627
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Flix (West)
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/95754
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Flix (East)
+https://p.maffiliates.net:2096/n24/SUZsBNHv12/95755
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82269
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ (East)
@@ -5562,10 +5568,6 @@ https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM Presents (Western)
 https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Flix (West)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/95754
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Flix (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/95755
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Sony Movie Channel
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/8809
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",HDNET Movies
@@ -5587,15 +5589,19 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Movies Network
 http://user.scalecdn.co:8080/09145054/65339468/543962
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",The Asylum Movie Channel
-http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/257751
+http://user.scalecdn.co:8080/09145054/65339468/709958
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Universal Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814575
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Action!
-https://cdn-ue1-prodv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Action Hollywood Movies
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n4=content_name&ads.v4=EPG%20%7C%20%20Action%20Hollywood%20Movies&ads.n21=content_custom_1_param&ads.v21=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n22=gpp&ads.v22=&ads.n23=channel_ext_id&ads.v23=&ads.n24=w&ads.v24=1920&ads.n25=app_name&ads.v25=&ads.n26=app_bundle&ads.v26=&ads.n27=did&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=action-hollywood-movies&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=device_type&ads.v31=&ads.n32=device_make&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=channel_company_id&ads.v34=AMDP500507&ads.n35=channel_rating&ads.v35=TV-PG&ads.n36=content_provider&ads.v36=action-hollywood-movies&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=dnt&ads.v38=&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp_sid&ads.v40=&ads.n41=channel_id&ads.v41=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Movie Network
-https://cdn-ue1-prodv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Action Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Comedy Network
+https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Western Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Hollywood Movie Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/91CAL7N2DJN9J22UJVE1/hls3/now,-1m/m.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Movies+
@@ -5617,8 +5623,8 @@ https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",The Film Detective
-https://cineverse.g-mana.media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Encore+
+https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
+EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",CineLife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
@@ -5629,7 +5635,7 @@ https://apollo-eks.production-public.tubi.io/live/cinevault-classics-ObCDhf.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",CineVault Westerns
 https://apollo-eks.production-public.tubi.io/live/cinevault-westerns2-7z47L6.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Maverick Black Cinema
-https://7f79ab38a34d49d4b985c99cafb976b1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa-us_MaverickBlackCinema/playlist.m3u8
+https://c769d1503f8c498292ac25d733e738cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_MaverickBlackCinema/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",TVS Classic Movies
 https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",TVS Drive In Movie
@@ -5682,10 +5688,8 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Shout! Movies
 https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Scream! Factory TV
-https://linear-730.frequency.stream/dist/dice/730/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Scream Box TV
-https://cineverse.g-mana.media/1d38c3be-9216-40e7-8b4d-7c51a882e002/master.m3u8
+https://cineverse.g-mana.live/media/1d38c3be-9216-40e7-8b4d-7c51a882e002/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Horror by ALTER
 https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Movie Hub
@@ -5693,7 +5697,7 @@ https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Movie Hub Action
 https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",OUTflix Movies
-https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Electric Now
 https://amg01705-amg01705c1-amgplt0093.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0093/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",CrimeFlix
@@ -7318,7 +7322,7 @@ http://user.scalecdn.co:8080/09145054/65339468/141726
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Timmins Ontario (Canada)
 http://bgdc.live:25461/folalawal@/4044225438/190860
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Halifax Nova Scotia (Canada)
-http://kstv.us:8080/N427DpynGE/7049166651/40595
+http://user.scalecdn.co:8080/09145054/65339468/3265
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Halifax (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3265
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Winnipeg (Canada)
@@ -7726,7 +7730,7 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Ginx esports TV (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/659509
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NBC Golf Channel (Canada)
-http://kstv.us:8080/N427DpynGE/7049166651/40701
+http://user.scalecdn.co:8080/09145054/65339468/3101
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HBO (Canada)
 http://kstv.us:8080/N427DpynGE/7049166651/40697
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HBO 2 (Canada)
@@ -7901,7 +7905,7 @@ http://user.scalecdn.co:8080/09145054/65339468/2230
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69221
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Watch (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47846
+http://user.scalecdn.co:8080/09145054/65339468/2145
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Travel Channel (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2159
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Animal Planet (UK)
