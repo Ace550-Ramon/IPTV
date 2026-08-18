@@ -2495,8 +2495,8 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/7
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82716
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",BarkTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fido-tv/FIDO_SCTE.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",BarkTV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951409/hls/barkt.m3u8?includeAssetTags=true&ads.xumo_channelId=99951409
 #EXTINF:0 tvg-logo="https://mma.prnewswire.com/media/1930260/Rovr_Pets_logo.jpg?p=publish" group-title="Documentary",Rovr Pets
 https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mma.prnewswire.com/media/1930260/Rovr_Pets_logo.jpg?p=publish" group-title="Documentary",LG Channels World Pup
@@ -5620,22 +5620,22 @@ https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Action+
 https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Comedy+
-https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8
+https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8]
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Black Movies+
+https://amg02042-amg02042c64-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02042-amg02042c64-amgplt0704/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Western+
 https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Christmas+
 https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Samuel Goldwyn Films
-https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Samuel Goldwyn Classics
-https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",WeToDo Movies
+https://w4freemovies-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",The Film Detective
 https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
 EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",CineLife
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Magnolia Select
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",CineVault
 https://apollo-eks.production-public.tubi.io/live/cinevault-UZPUok.m3u8
