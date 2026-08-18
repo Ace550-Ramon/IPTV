@@ -960,7 +960,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_cha
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",WNYW-TV FOX 5 24/7 News (New York NY)
 https://amg00488-foxdigital-amg00488c7-vizio-us-903.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox5newyorkwnyw-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WABC-TV ABC 7 24/7 News (New York NY)
-https://d3ip9j8kiqtf8w.cloudfront.net/out/v1/9adf1cf1816e45b2a90e98e6cf436fa8/ADHOC-WABC-02-cmaf-manifest/ADHOC-WABC-02-index.m3u8
+https://amg00497-amg00497c14-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c14-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",WMAQ-TV NBC 5 24/7 News (Chicago IL)
@@ -1109,7 +1109,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_cha
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://cdn-uw2-prodv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WJLA-TV ABC 7 24/7 News (Washington DC)
-https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/681/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n4=content_name&ads.v4=WJLA%20Washington%20DC&ads.n21=content_custom_1_param&ads.v21=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=h&ads.v23=1080&ads.n24=channel_genre&ads.v24=News&ads.n25=app_version&ads.v25=0.0.0&ads.n26=device_make&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=channel_language&ads.v28=en&ads.n29=channel_corp&ads.v29=Sinclair%20Television%20Group%20INC&ads.n30=content_type&ads.v30=channel&ads.n31=content_provider&ads.v31=wjla-washington-dc&ads.n32=gpp&ads.v32=&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=channel_company_id&ads.v34=AMDP500539&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=channel_id&ads.v36=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp_sid&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=channel_title&ads.v43=WJLA%20Washington%20DC&ads.n44=device_model&ads.v44=&ads.n45=content_producer_name&ads.v45=Sinclair%20Television%20Group%20INC&ads.n46=channel_ext_id&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013446&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=dnt&ads.v49=&ads.n50=content_livestream&ads.v50=1&ads.n51=app_store_url&ads.v51=&ads.n52=network_name&ads.v52=wjla-washington-dc&ads.n53=channel_brand_id&ads.v53=AMDB013446&ads.n54=app_name&ads.v54=&ads.n55=app_bundle&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=channel_name&ads.v57=WJLA%20Washington%20DC&ads.n58=w&ads.v58=1920
+https://amg16170-amg16170c1-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg16170-amg16170c1-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",KOMO-TV ABC 4 24/7 News (Seattle WA)
@@ -1460,6 +1460,7 @@ https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 https://jmp2.uk/stvp-USBB800001O7
 #EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
 https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
+https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WVIZ-TV PBS 25.1 (Cleveland OH)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95180
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
@@ -3767,6 +3768,8 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/628/hls/master/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=D2300A27-E817-470E-86DD-04E2B176F870&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D2300A27-E817-470E-86DD-04E2B176F870&ads.n4=content_name&ads.v4=Locked%20on%20NBA&ads.n21=channel_genre&ads.v21=Sports&ads.n22=app_version&ads.v22=0.0.0&ads.n23=content_type&ads.v23=channel&ads.n24=app_bundle&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=app_store_url&ads.v26=&ads.n27=app_name&ads.v27=&ads.n28=ip&ads.v28=86.48.9.131&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=device_make&ads.v30=&ads.n31=gpp&ads.v31=&ads.n32=channel_id&ads.v32=D2300A27-E817-470E-86DD-04E2B176F870&ads.n33=channel_language&ads.v33=en&ads.n34=channel_company_id&ads.v34=AMDP500555&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=channel_rating&ads.v36=TV-PG&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=network_name&ads.v38=locked-on-sports-nba&ads.n39=channel_title&ads.v39=Locked%20on%20NBA&ads.n40=pos&ads.v40=midroll&ads.n41=did&ads.v41=&ads.n42=gpp_sid&ads.v42=&ads.n43=device_model&ads.v43=&ads.n44=content_custom_1_param&ads.v44=D2300A27-E817-470E-86DD-04E2B176F870&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=dnt&ads.v46=&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=content_livestream&ads.v48=1&ads.n49=device_type&ads.v49=&ads.n50=ifa_type&ads.v50=&ads.n51=content_provider&ads.v51=locked-on-sports-nba&ads.n52=channel_brand_id&ads.v52=AMDB013552&ads.n53=content_custom_2_param&ads.v53=AMDB013552&ads.n54=channel_ext_id&ads.v54=&ads.n55=channel_name&ads.v55=Locked%20on%20NBA&ads.n56=channel_corp&ads.v56=Tegna%20INC&ads.n57=h&ads.v57=1080&ads.n58=content_producer_name&ads.v58=Tegna%20INC
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Hoop TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Network
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/1401
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Channel
@@ -3966,13 +3969,15 @@ https://2a7ce3b9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRk
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Stadium
-http://dai.google.com/linear/hls/event/v08jn_wSRRGol1hWsbJgbg/master.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports (MLB)
-http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
+http://dai.google.com/linear/hls/event/KTYK6mlHRy-d2aArw30DYQ/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports (Glory)
-http://dai.google.com/linear/hls/event/zZK1PADpSfCbSMyFTcwufQ/master.m3u8
+https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports (MLB)
+http://dai.google.com/linear/hls/event/PxGoxyeDQ7qR4W9jbxwNrA/master.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports Xtra (MLB)
+http://dai.google.com/linear/hls/event/Fi-hCvUiRyWdZLAnbadsuA/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports (Poker)
-http://dai.google.com/linear/hls/event/70ov0oU2T2uHSWSxvcGSrA/master.m3u8
+http://dai.google.com/linear/hls/event/2p6SvMmQTa6YfvIjWhUWRw/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bally Sports (Chicago)
 https://linear30.channels.ballys.tv/abr_default/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",PokerGo
@@ -3998,7 +4003,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/9638
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FN (Fight Network)
 http://user.scalecdn.co:8080/09145054/65339468/383474
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",HBO Boxing by WB
-https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Fite 24/7 by Triller
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",EPG Fighting Network
@@ -5608,6 +5613,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/91CAL7N2DJN9J22UJVE1/hls3/now,-1m/m.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Free Movies+
 https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",VHS+
+https://amg02042-amg02042c34-hp-us-11059.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplusta-hpus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Horror+
 https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Action+
@@ -5710,14 +5717,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-l
 https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Miramax Movie Channel
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channel Showcase
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channels Showcase (West)
+https://amg00497-amg00497c40-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00497-amg00497c40-amgplt0023/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channels Showcase (East)
 https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channel Romance Showcase
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channels Action Showcase
+https://amg00497-amg00497c30-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c30-amgplt0023/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",LG Channels Romance Showcase
 https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",At the Movies by WB
-https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Classic Cinema by WB
-https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+https://amg00136-wbd-amg00136c18-tablo-us-7203.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",50 Cent Action
 https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",70s Cinema (Pluto TV)
@@ -6684,6 +6695,8 @@ http://38.194.226.190:8000/play/a01o/index.m3u8?hls
 http://205.235.6.29:8000/play/a0yt/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Discovery Science en Español
 http://38.194.226.190:8000/play/a00r/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TuDiscovery By WB
+https://amg00136-wbd-amg00136c59-lg-us-5702.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-tudiscovery-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Animal Planet en Español
 http://cloud.flynet.sv:1935/canal-068/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",History Channel en Español 
@@ -7828,6 +7841,8 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/69255
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69341
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies (UK)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Mystery (UK)
+https://amg01753-amg01753c8-rakuten-gb-8150.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmystery-rakutengb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Romance (UK)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",PBS America (UK)
@@ -7877,9 +7892,9 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/1288
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",FreeForm (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2276
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pop (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103301
+https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Tiny Pop (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103303
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-rakutenuk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Tiny Pop+ (UK)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Kids (UK)
