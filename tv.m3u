@@ -2493,15 +2493,15 @@ http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/66a96ae9cc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82293
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (East)
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49415
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://user.scalecdn.co:8080/09145054/65339468/2661
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44073
 #EXTINF:0 tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/348294991_922335115740028_2394346157475320613_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=utp5sBiTwsgQ7kNvwHxLHs3&_nc_oc=AdnKKgNiU-HYFyqkmIr3TycG_P4wwGtDpmvn3U2LKqsW83mmEk5N2hz3v-r9ukjS9Sg&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=0C_cytQVwNZobtJbWKgiew&oh=00_AfS7Vq-PsstxVFW7t8FrnjOrw6i9ndmFi1vHF_cxDGtoyw&oe=687A1A6F" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82716
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/32122
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",BarkTV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951409/hls/barkt.m3u8?includeAssetTags=true&ads.xumo_channelId=99951409
 #EXTINF:0 tvg-logo="https://mma.prnewswire.com/media/1930260/Rovr_Pets_logo.jpg?p=publish" group-title="Documentary",Rovr Pets
@@ -2513,7 +2513,7 @@ https://cdn-uw2-prodv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100284
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/151
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43974
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",BBC Travel
 https://amg00793-amg00793c38-vidaa-gb-7935.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctravel-vidaagb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",4K Travel
@@ -2521,31 +2521,31 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/73375
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/89
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44020
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/2048px-Discovery_Life_logo_2016.svg.png" group-title="Documentary",Discovery Life
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/65
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49416
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
-http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19262
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Discovery Turbo (formerly Motor Trend)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/4727
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44010
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Discovery Turbo TV
 https://jmp2.uk/stvp-USBC3600005U9
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1024px-Destination_America_logo.svg.png" group-title="Documentary",Destination America
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44052
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1774px-History_%282021%29.svg.png" group-title="Documentary",History Channel (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100291
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1774px-History_%282021%29.svg.png" group-title="Documentary",History Channel (East)
-http://4.30.180.36:8420/history/index.m3u8?token=test
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/32930
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="Documentary",Military History
-http://user.scalecdn.co:8080/09145054/65339468/470622
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48247
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Documentary",National Geographic (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/1819
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Documentary",National Geographic (East)
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44005
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1920px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44006
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Samsung Wild Life
 https://jmp2.uk/stvp-USBA3000043LH
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",History Hit
@@ -2553,7 +2553,7 @@ https://amg00426-lds-amg00426c5-vidaa-us-7565.playouts.now.amagi.tv/playlist/amg
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",CGTN Documentary
 https://english-livebkali.cgtn.com/doccgtn.m3u8
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/112
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37905
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV+
 https://cdn-ue1-prodv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Xplore #1
@@ -2577,7 +2577,7 @@ https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg0079
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",NASA TV
-http://206.212.244.63/4243/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49184
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Wingspan Air Space Channel
 https://wingspan-airandspace-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",The Real Disaster Channel
@@ -2589,7 +2589,7 @@ https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Pursuit Channel
 https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index_3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44074
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",DOC+
@@ -2605,11 +2605,11 @@ https://amg00170-curiositystream-amg00170c1-cox-international-2070.playouts.now.
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (East)
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37670
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/99072
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/74452
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43993
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/1920px-True_Crime_Network_logo.svg.png" group-title="Documentary",True Crime Network+
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",NBC American Crimes
@@ -2619,7 +2619,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991384/hls/master.m3u8?includeAsset
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Total Crime
 https://amg00090-amg00090c5-cw-us-2580.playouts.now.amagi.tv/playlist/amg00090-blueantfast-totalcrime-cwus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Justice Central TV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82516
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44018
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Court TV
 https://csm-e-shared1liveuse1-eb.bln1.yospace.com/csm/extlive/lawnewzprd01,court-tv.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Court TV Legendary Trials
@@ -2627,7 +2627,7 @@ https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",truTV (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100283
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",truTV (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/152
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43973
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",truTV+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",truTV+ (East)
@@ -2635,7 +2635,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tru
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Investigation
 https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Crime & Investigation
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14161
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Law & Crime
 https://cdn.lawandcrime.net/247/playlist_scte.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Law & Crime Rewind
@@ -2680,7 +2680,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",Spectrum News NY1 (New York NY)
-http://user.scalecdn.co:8080/09145054/65339468/597114
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/54405
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",Spectrum News 1 (New York NY)
 http://user.scalecdn.co:8080/09145054/65339468/649404
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",Spectrum News SoCal (Los Angeles CA)
@@ -2866,7 +2866,7 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon (West)
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaZMRIm-2fejGL7xydKf4_1M
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon (East)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14098
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43999
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nick (Pluto TV)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nick Jr. (West)
@@ -2878,7 +2878,7 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nicktoons (West)
 http://206.212.244.63/3152/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nicktoons (East)
-http://41.205.93.154/NICKTOONS/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43998
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nicktoons (Pluto TV)
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",TeenNick (West)
@@ -2892,21 +2892,21 @@ https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Channel (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/81851
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Channel (East)
-http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44050
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney XD (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82268
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney XD (East)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44048
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Jr. (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82631
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Jr. (East)
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44049
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82282
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (East)
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44061
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Boomerang by Cartoon Network
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20174
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",MeTV Toons
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/59223
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ToonCast
@@ -2936,9 +2936,9 @@ https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",FreeForm (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82294
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",FreeForm (East)
-http://4.30.180.36:8420/freeform/index.m3u8?token=test
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19264
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Discovery Family
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/28591
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44051
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Family T.V. Channel
 https://cce.noisypeak.com/hls/ZFVFQLI/B8D18257E27B/m.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Baby First
@@ -3057,17 +3057,15 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100289
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV (East)
-http://23.237.104.106:8080/USA_MTV/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44008
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV (Pluto TV)
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV 2 (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100288
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV 2 (East)
-http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (West)
-http://user.scalecdn.co:8080/09145054/65339468/631838
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/14121
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44007
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/60142
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (Pluto TV)
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Live
@@ -3079,7 +3077,7 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LGBT",Logo (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100290
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LGBT",Logo (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/96
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43134
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LGBT",Logo (Pluto TV)
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OUTtv Proud
@@ -3087,11 +3085,11 @@ https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",VH1 (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100281
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",VH1 (East)
-http://23.237.104.106:8080/USA_VH1/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43963
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82291
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/12
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44067
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET (Pluto TV)
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Classics (Pluto TV)
@@ -3101,13 +3099,13 @@ https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Her (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82292
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Her (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/41
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44066
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Jams
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/42
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41959
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Soul
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/43
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41960
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Gospel
-http://user.scalecdn.co:8080/09145054/65339468/42491
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/62056
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Comedy
 https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Drama
@@ -3115,15 +3113,15 @@ https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FOX Soul
 https://cdn-uw2-prodv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",theGrio
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/92123
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49507
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",theGrio+
 https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TV One
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/155
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/25258
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Cleo TV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/92122
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48242
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Revolt
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/123
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43988
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Afro
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49898
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Afroland
@@ -3143,9 +3141,9 @@ https://cdn-uw2-prodv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69193
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (East)
-http://23.237.104.106:8080/USA_E/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44046
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AXS-TV
-http://23.239.31.26:8989/axstv/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44069
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AXS-TV Now
 https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Crime Thriller
@@ -3154,13 +3152,13 @@ https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy Central (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82287
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy Central (East)
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44055
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy Central (Pluto TV)
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy Central Animation (Pluto TV)
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy.tv
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82755
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44054
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Comedy+
 https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Comedy",Adult Swim+ (West)
@@ -3229,17 +3227,17 @@ https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FX (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82295
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FX (East)
-http://23.237.104.106:8080/USA_FX/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14172
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXX (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82296
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXX (East)
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44030
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXM (FOX Movie Channel)
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44031
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT (West)
 http://user.scalecdn.co:8080/09145054/65339468/2384
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/149
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43975
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT+ (East)
@@ -3247,7 +3245,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnt
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS (West)
 http://user.scalecdn.co:8080/09145054/65339468/3842
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/133
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43981
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbswest.us.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS+ (East)
@@ -3255,27 +3253,25 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",USA Network (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100282
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",USA Network (East)
-http://4.30.180.36:8420/usa/index.m3u8?token=test
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43964
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Crime Beat TV
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/dist/localnow/940/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n4=content_name&ads.v4=Crime%20Beat%20TV&ads.n21=w&ads.v21=1920&ads.n22=dnt&ads.v22=&ads.n23=url&ads.v23=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n24=did&ads.v24=&ads.n25=app_bundle&ads.v25=&ads.n26=channel_brand_id&ads.v26=AMDB013592&ads.n27=channel_language&ads.v27=en&ads.n28=gpp&ads.v28=&ads.n29=us_privacy&ads.v29=1YNY&ads.n30=app_version&ads.v30=0.0.0&ads.n31=ip&ads.v31=195.179.200.80&ads.n32=device_type&ads.v32=&ads.n33=channel_name&ads.v33=Crime%20Beat%20TV&ads.n34=channel_title&ads.v34=Crime%20Beat%20TV&ads.n35=content_producer_name&ads.v35=Shout%21%20Factory%20LLC&ads.n36=app_store_url&ads.v36=&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=content_type&ads.v38=channel&ads.n39=channel_genre&ads.v39=Drama&ads.n40=device_make&ads.v40=&ads.n41=device_model&ads.v41=&ads.n42=network_name&ads.v42=crime-beat-tv&ads.n43=ifa_type&ads.v43=&ads.n44=channel_id&ads.v44=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n45=app_name&ads.v45=&ads.n46=content_custom_2_param&ads.v46=AMDB013592&ads.n47=pos&ads.v47=midroll&ads.n48=channel_ext_id&ads.v48=&ads.n49=cust_devicename&ads.v49=desktop_web&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=h&ads.v51=1080&ads.n52=content_custom_1_param&ads.v52=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n53=content_provider&ads.v53=crime-beat-tv&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=content_livestream&ads.v55=1&ads.n56=channel_company_id&ads.v56=AMDP500152&ads.n57=gpp_sid&ads.v57=&ads.n58=content_custom_3_param&ads.v58=channel
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hunter
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/914/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n4=content_name&ads.v4=Hunter&ads.n21=channel_brand_id&ads.v21=AMDB013564&ads.n22=channel_id&ads.v22=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n23=w&ads.v23=1920&ads.n24=content_producer_name&ads.v24=Shout%21%20Factory%20LLC&ads.n25=device_type&ads.v25=&ads.n26=cust_devicename&ads.v26=desktop_web&ads.n27=app_version&ads.v27=0.0.0&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Shout%21%20Factory%20LLC&ads.n31=ua&ads.v31=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n32=channel_company_id&ads.v32=AMDP500152&ads.n33=gpp&ads.v33=&ads.n34=ip&ads.v34=195.179.200.80&ads.n35=channel_name&ads.v35=Hunter&ads.n36=dnt&ads.v36=&ads.n37=channel_ext_id&ads.v37=&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=channel_genre&ads.v39=Action&ads.n40=channel_language&ads.v40=en&ads.n41=did&ads.v41=&ads.n42=content_custom_1_param&ads.v42=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n43=h&ads.v43=1080&ads.n44=app_store_url&ads.v44=&ads.n45=content_livestream&ads.v45=1&ads.n46=app_name&ads.v46=&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=content_provider&ads.v48=hunter&ads.n49=content_type&ads.v49=channel&ads.n50=app_bundle&ads.v50=&ads.n51=content_custom_2_param&ads.v51=AMDB013564&ads.n52=device_make&ads.v52=&ads.n53=channel_title&ads.v53=Hunter&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=network_name&ads.v55=hunter&ads.n56=ifa_type&ads.v56=&ads.n57=pos&ads.v57=midroll&ads.n58=gpp_sid&ads.v58=
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Spike (Pluto TV)
-https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Network (West)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/100287
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Network (East)
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Network
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43992
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount+ Picks (Pluto TV)
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Spike (Pluto TV)
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SYFY (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100285
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SYFY (East)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43982
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65622ac05dbccec83a87b641/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Midnight Pulp
@@ -3288,11 +3284,11 @@ https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Food Network (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/73391
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Food Network (East)
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44039
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44053
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Recipe.tv
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/95097
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49903
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Cooking",Bon Appétit
@@ -3313,25 +3309,25 @@ https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TLC (The Learning Channel) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/8237
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TLC (The Learning Channel) (East)
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1105/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43976
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bravo (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82286
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bravo (East)
-http://41.205.93.154/BRAVO/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44064
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",IFC (Independent Film Channel) (West)
 http://user.scalecdn.co:8080/09145054/65339468/647340
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",IFC (Independent Film Channel) (East)
-http://23.237.104.106:8080/USA_IFC/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44021
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SundanceTV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/8546
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43983
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",A&E (Arts & Entertainment) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95753
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",A&E (Arts & Entertainment) (East)
-http://23.239.31.26:8989/aande/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44077
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CMT (Country Music Television) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82288
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CMT (Country Music Television) (East)
-http://23.237.104.106:8080/USA_CMT/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27294
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CMT Equal Music (Pluto TV)
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Circle Country
@@ -3341,11 +3337,11 @@ https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Heartland Channel
 https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2VmNGM0NWFmMjk5YzQ2YWFhYmMzZjg3MTNmOTJmMTYzL2luZGV4XzIubTN1OA==&w=1280&h=720&master=&client=&session=1ecab5b4367da9b801a709766f309e70&ott_provider_id=0&bitrate=3193172&variant=1&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&troute=105&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2VmNGM0NWFmMjk5YzQ2YWFhYmMzZjg3MTNmOTJmMTYzL2luZGV4Lm0zdTg%3D&uip=76.32.150.23&dnt=0&lmt=0&uid=&lang=en&device_model=&device_make=&device_os=&device_connection=&app_category=uncategorized&ifa_type=&site_url=&site_full_url=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Ffeatured%252Fcms-heartland%252F&max_duration=&width=683&height=355&cb=125635416&video_duration=&mute=0&skippability=&delivery=streaming&app_name=FreeCast&app_bundle=com.freecast.watch&app_version=1.0&app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&device_id=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&geo_lat=34.2586&geo_lon=-118.4217&channelid=Heartland&gdpr=0&us_privacy=1YNN&coppa=0&content_id=&content_series=Bluegrass+Ridge&content_lang=&content_season=&content_rating=&content_genre=featured&content_episode=&content_title=Bluegrass+Ridge&content_categories=IAB1-7&channel_name=Heartland&network_name=&poddur=&minduration=6&ad_pod_slots=&schain=&c4=101&device_category=desktop&video_id=&ad_position=&session_id=&ad_duration=1800&format=freecast
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Cowboy Channel
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/79547
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43132
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Cowboy+ Sports
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",RFDTV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/50683
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43987
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Wild West TV
 https://jmp2.uk/rok-306550b8677f5fd3937c26808531d5f3.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Lone Star
@@ -3353,31 +3349,31 @@ https://cineverse.g-mana.media/ffc88f2b-a62d-4f2f-b9b5-5068b2d86440/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TVS Western Movie
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Ovation
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/92256
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43995
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",INSP
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/14110
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41043
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (West)
 http://user.scalecdn.co:8080/09145054/65339468/631865
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/127
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37904
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (Pluto)
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Outlaw The Western Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Aspire
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77080
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44071
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC America
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/15
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44068
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OuterSphere by Lionsgate
 https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Pop TV (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100286
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Pop TV (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/120
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43991
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100280
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice (East)
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43962
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",YouToo America
@@ -3387,9 +3383,9 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LifeTime (West)
 http://user.scalecdn.co:8080/09145054/65339468/650317
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LifeTime (East)
-http://4.30.180.36:8420/lifetime/index.m3u8?token=test
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44013
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LMN (LifeTime Movie Network)
-http://23.237.104.106:8080/USA_LMN/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44012
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LRW (LifeTime Real Women)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/91790
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Lifetime Movie Favorites
@@ -3403,7 +3399,7 @@ https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LGBT",Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",WETV (Women Entertainment Television)
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43961
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HerSphere by Lionsgate
@@ -3419,9 +3415,9 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HGTV (Home and Garden Television) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82297
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HGTV (Home and Garden Television) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/86
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14169
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Magnolia Network
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/4731
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44047
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Design Network
@@ -3443,13 +3439,13 @@ http://user.scalecdn.co:8080/09145054/65339468/42307
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FYI (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100294
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FYI (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/4714
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44029
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Fuse
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44033
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",UpTV
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/13979
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43965
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GSN (Game Show Network)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/8612
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44026
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Game Show Central
 https://dfd29636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC Game Shows
@@ -3457,21 +3453,21 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d7
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OWN (Oprah Winfrey Network) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/99124
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OWN (Oprah Winfrey Network) (East)
-http://23.237.104.106:8080/USA_OWN/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14136
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Ebony TV by Lionsgate
 https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvvizio-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC (American Movie Classics) (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/95752
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC (American Movie Classics) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/5
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44075
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC+
-http://user.scalecdn.co:8080/09145054/65339468/339687
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/60134
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC Thriller
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM (Turner Classic Movies) (West)
 http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130050
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM (Turner Classic Movies) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/50269
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/43980
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM+ (East)
@@ -3485,11 +3481,11 @@ https://api-ott.watchnost.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Channel (West)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100292
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Channel (East)
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44025
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Family
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/84
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48228
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Mystery (West)
-http://user.scalecdn.co:8080/09145054/65339468/649413
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48229
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Mystery (East)
 http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1075/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Movies & More
@@ -3735,8 +3731,6 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37297
 http://user.scalecdn.co:8080/09145054/65339468/3771
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (Philadelphia)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37039
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Sports (Washington)
-http://user.scalecdn.co:8080/09145054/65339468/3770
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NBC Peacock Premier League TV
@@ -7245,7 +7239,7 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57302
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FOX Sports Premium en Español
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57301
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN Deportes
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44042
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/47014
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN en Español
 http://181.119.108.43:9001/play/a0p0/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN 2 en Español
@@ -7324,9 +7318,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC News (Canada)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC News Network (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3126
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44286
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Calgary (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/21881
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/40839
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Charlottetown (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/21882
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Edmonton (Canada)
@@ -7334,15 +7328,15 @@ http://user.scalecdn.co:8080/09145054/65339468/21883
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Halifax (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/21885
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Montreal (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3245
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29289
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Ottawa (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/21887
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29242
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Toronto (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3125
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29429
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Vancouver (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/21891
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29241
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Winnipeg (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3304
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49031
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Windsor (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/92737
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC New Brunswick/Fredericton (Canada)
@@ -7354,57 +7348,59 @@ http://user.scalecdn.co:8080/09145054/65339468/21888
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Sudbury Ontario (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/141726
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Timmins Ontario (Canada)
-http://bgdc.live:25461/folalawal@/4044225438/190860
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49764
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Halifax Nova Scotia (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3265
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Halifax (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3265
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49753
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Winnipeg (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/141729
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49766
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Calgary (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6508
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/40837
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Edmonton Alberta (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/72978
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49752
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Kitchener (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/1268107
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49754
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Montreal (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3266
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49757
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Ottawa (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3268
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29411
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Regina Saskatchewan (Canada)
-http://bgdc.live:25461/folalawal@/4044225438/190948
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49761
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Saskatoon Saskatchewan (Canada)
-http://cord-cutter.net:8080/DepZh0/111853/66382
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49762
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Toronto (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3269
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44272
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Barrie Ontario (Canada)
 http://cord-cutter.net:8080/DepZh0/111853/57373
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Vancouver (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3270
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29301
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Atlantic (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/141721
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Vancouver Island (Canada)
-http://kstv.us:8080/N427DpynGE/7049166651/40736
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Alberta (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49744
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Barrie Ontario (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/141745
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49746
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 London (Canada)
-http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/129649
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49747
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Vancouver (Canada)
-http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/129650
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29413
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Toronto (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/93008
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49028
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Windsor (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/141734
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49750
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Atlantic (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3116
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49745
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV News Channel (Canada)
 https://stream-ent4.video.9c9media.com/video/v1/05a4f3360cc85489cf15049065646ff2/dash/none/best/manifest.mpd
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global B.C (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21223
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Durham (CHEX-DT-2) (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/59857
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Montreal (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/141740
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Calgary (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/87967
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/40836
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Maritimes (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/88027
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Edmonton (Canada)
@@ -7412,9 +7408,9 @@ http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/129698
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Saskatoon (Canada)
 http://cord-cutter.net:8080/DepZh0/111853/66383
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Toronto (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3277
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29330
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global Vancouver (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3278
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29248
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global News National (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Global News B.C (Canada)
@@ -7448,9 +7444,9 @@ http://cord-cutter.net:8080/DepZh0/111853/100631
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",City TV Calgary (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/51467
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",City TV Toronto (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6528
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29426
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",City TV Vancouver (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6527
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29322
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",City TV Montreal (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/51468
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",City TV News Calgary (Canada)
@@ -7470,23 +7466,23 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Cheddar News (Canada)
 https://95cd6c85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtY2FfQ2hlZGRhcl9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CP24 News (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6536
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44271
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",FOX News Network (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3275
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CNN (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6531
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21216
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CNN International (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6531
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29422
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HLN (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83264
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21245
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CNBC (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6530
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44280
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",MSNBC (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/93125
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21217
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",BNN Bloomberg (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6504
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29436
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",BBC World News (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6503
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29438
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",The Weather Network (Canada)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",WCGtv Public (Canada)
@@ -7494,23 +7490,23 @@ https://wcgtv.ca/live-10/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Kids (Canada)
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Treehouse (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6615
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/25264
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YTV (West) (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/647755
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YTV (East) (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/647754
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44194
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TVO Kids (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6623
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29297
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Disney Channel (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/78046
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29404
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Cartoon Network (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3248
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44270
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Boomerang by Cartoon Network (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/103759
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Télétoon French (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6614
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29312
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TFO French (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82683
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44212
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Romance 365 (Canada)
 https://e0d481b9df1fee3144ca6e5a59af31bb.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/e242df02-8810-11f0-b2e4-0242ac110002/index-dash.mpd
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Christmas 365 (Canada)
@@ -7520,83 +7516,81 @@ https://e0d481b9df1fee3144ca6e5a59af31bb.7wzuvg.channel-assembly.mediatailor.us-
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Nonstop Drama (Canada)
 https://e0d481b9df1fee3144ca6e5a59af31bb.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/6ddc1998-88c5-11f0-bf94-0242ac110004/index-dash.mpd
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Adult Swim (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6500
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44290
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Much (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6588
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29254
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",APTN (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77766
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29327
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",USA Network (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6550
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29245
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",A&E (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103376
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29443
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Dejaview (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6548
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29407
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CHEK (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/1423680
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",AMC (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3132
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29440
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Vision (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6624
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29335
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Home Network (Canada)
-http://40.160.24.53/HGTV/index.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21202
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Magnolia Network (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6554
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/59400
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Home (Canada)
 https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Knowledge Network (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/87955
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29320
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Wild (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6502
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29439
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Speed (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/71722
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Nature (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/6549
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",National Geographic (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6590
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29375
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",National Geographic Wild (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6589
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21198
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",History Channel (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6580
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29384
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83262
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29272
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Historia (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82646
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29294
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",AHC (American Heroes Channel) (Canada)
 http://40.160.24.52/AMERICAN_HEROES_CHANNEL/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",BBC Earth (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83260
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29325
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",WILD TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83272
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29304
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Love Nature (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6583
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/34892
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Crime (Canada)
 https://amg00089-bellmedia-amg00089c16-lg-ca-9432.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvcrime-lgca/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Documentary (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6555
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Oxygen True Crime (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/99112
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/59399
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crime & Investigation (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6538
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44268
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",ID (Investigation Discovery) (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/88083
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29382
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TV Ontario (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3152
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44204
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",W Network (Canada) (West)
 http://user.scalecdn.co:8080/09145054/65339468/3050
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",W Network (Canada) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6625
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29307
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YES TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6627
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29257
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Super Channel Fuse (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/59851
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29350
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Super Channel Quest (Canada)
 http://thevdm.xyz:25461/timmadden/timmad4765/127947
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83100
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29349
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Super Channel Vault (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83204
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29314
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Silver Screen (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6603
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29315
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Travel Escape (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3296
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HPItv East (Canada)
@@ -7604,61 +7598,61 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/83255
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Gets Real (Canada)
 https://amg00089-bellmedia-amg00089c15-lg-ca-5727.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgetsreal-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Drama Channel (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6540
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44276
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Life Channel (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83232
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48960
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/79523
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49022
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Makeful (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/83265
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44241
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",(ZH) NTD (Canada)
 http://cord-cutter.net:8080/DepZh0/111853/58023
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NTV St. John`s (Canada)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Bravo (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6594
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44231
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Lifetime (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6582
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21200
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://cord-cutter.net:8080/DepZh0/111853/57444
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",OMNI (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6595
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29369
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",OMNI 2 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6596
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29276
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",OWN (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/6597
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Peachtree TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6601
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44225
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Showcase (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6602
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29361
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Slice TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6604
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29266
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TLC (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/28143
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/33540
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Smithsonian Channel (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/88794
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CHCH (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6524
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20974
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CMT (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3122
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44281
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Cottage Life (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3260
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29418
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CP24 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6536
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44271
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CPAC (Canada)
 https://cpac-ca-live.cdn.vustreams.com/groupa/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",ZESTE French (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82695
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29255
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Z-Télé French (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/702668
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29332
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Canal Vie French (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/92657
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29308
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",UnisTV (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/82691
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",PRISE 2 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82669
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29269
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",DTOUR (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6556
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44267
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Noovo Cinéma (Canada)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Noovo Comédies (Canada)
@@ -7666,51 +7660,53 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Noovo Téléréalités (Canada)
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",E! (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6557
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29284
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Comedy (Canada) (West)
 http://user.scalecdn.co:8080/09145054/65339468/3119
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Comedy (Canada) (East)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6533
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44277
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Laughs (Canada)
 https://amg00089-bellmedia-amg00089c10-lg-ca-3225.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Comedy (Canada)
 https://amg00788-cbc-amg00788c2-lg-ca-3608.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbccomedy-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Flavour Network (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3080
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/59397
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",The Cooking Channel (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3259
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Tastemade International (Canada)
 https://amg00047-amg00047c1-vidaa-us-9456.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeinternationalausenglishest-vidaaus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",FX (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6564
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49003
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",FXX (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6565
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19572
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TCM (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3065
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29344
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Daystar Television Network (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/51509
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29408
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",EWTN (Canada)
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Game Show Network (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6568
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29388
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Game TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6567
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44251
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Game+ (Canada)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/101744
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48952
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 1 (Canada)
-http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaRFL_gAcavlFOYQf3vdf8U4
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57428
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 2 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/8293
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57429
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 3 (Canada)
-http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaZPrIymiho6glR6VeY1FMgE
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57430
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 4 (Canada)
-http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFafgAXmWFmsIn2537KZLQC8w
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57431
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 4 4K (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/61686
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 5 (Canada)
-http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaX6QOzxr3sBRodVObuukJQY
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57432
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",beIN Sports 1 (Canada)
@@ -7720,43 +7716,43 @@ http://user.scalecdn.co:8080/09145054/65339468/3153
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",beIN Sports NBA (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/659438
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",RDS Info (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/92666
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49001
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",RDS English (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/3232
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",RDS (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/59870
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29268
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",RDS 2 (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/92668
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29363
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NBA TV (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/8942
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29374
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NFL Network (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3067
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44235
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet 4K (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103538
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/61683
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet 360 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/9580
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21233
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet West (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/9582
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21238
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet East (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/9579
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet One (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6609
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21227
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet One 4K (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/61684
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet Ontario (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6610
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21236
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet Pacific (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/9581
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21237
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet World (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/88060
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/21239
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TVA Sports (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82689
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29336
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TVA Sports 2 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82690
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/61732
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Red Bull TV (Canada)
 https://f0d11f64b9cc4b1781f90e8a3e4e3a80.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_CA/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",WWE Network (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/59881
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Fight Network (Canada)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29398
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hard Knocks (Canada)
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Game+ (Canada)
@@ -7764,94 +7760,96 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Ginx esports TV (Canada)
 http://user.scalecdn.co:8080/09145054/65339468/659509
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NBC Golf Channel (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/3101
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29390
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HBO (Canada)
-http://kstv.us:8080/N427DpynGE/7049166651/40697
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45333
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",HBO 2 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6577
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45334
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Starz (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/1795
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48993
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Starz 2 (Canada)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/1796
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Movietime (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/6584
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44240
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Movies (Canada)
 https://amg00089-bellmedia-amg00089c17-lg-ca-9431.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvmovies-lgca/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 1 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/50044
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45329
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 2 (Canada)
-http://bgdc.live:25461/folalawal@/4044225438/190852
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45331
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 3 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/50046
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45330
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 4 (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/50047
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/45332
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 70's Movies (Canada)
-http://user.scalecdn.co:8080/09145054/65339468/59884
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 80's Movies (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77254
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 90's Movies (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77255
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 00's Movies (Canada)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/71852
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50300
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 80's & 90's Movies (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50301
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 2000's Movies (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50302
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 2010's Movies (Canada)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50299
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC First (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/94520
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC One (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69241
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19460
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Two (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69240
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19457
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 3 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103149
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50256
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103166
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27738
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 4 Cbeebies (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2320
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27773
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Alba (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103262
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27777
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 1 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69169
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19456
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 2 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69211
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19445
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 3 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69210
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19444
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69209
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19443
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV Be (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69208
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV Quiz (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19442
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",More4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69205
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19440
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Film4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69217
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27292
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69231
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19455
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 Seven (UK)
-http://user.scalecdn.co:8080/09145054/65339468/89380
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41041
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69230
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19454
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5+ (UK)
 http://bgdc.live:25461/folalawal@/4044225438/223251
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 USA (UK)
-http://user.scalecdn.co:8080/09145054/65339468/89023
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27782
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Star (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2372
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27781
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Action (UK)
-http://bgdc.live:25461/folalawal@/4044225438/223479
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41040
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Select (UK)
 http://bgdc.live:25461/folalawal@/4044225438/223478
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Virgin Media One (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103205
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/32135
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Virgin Media Two (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103206
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27693
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Virgin Media Three (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103207
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50257
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky One (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2196
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/61839
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Two (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2178
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE 1 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69256
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20639
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE 2 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69255
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20640
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE News Now (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69341
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies (UK)
@@ -7863,7 +7861,7 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",PBS America (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47800
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",CNN (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103314
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27761
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Bloomberg (UK)
@@ -7871,39 +7869,43 @@ https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Bloomberg (Austrailia)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC World News (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2345
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27772
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky News (UK)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Talk TV (UK)
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",FOX News Channel (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2278
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",STV (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103225
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27709
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky SYFY (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2167
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27708
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Yesturday (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/94777
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50132
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Yesturday +1 (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50133
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Really (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103194
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27717
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Kids (UK)
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE Jr. (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69340
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20641
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Nickelodeon (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/1294
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27726
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Nick Jr. (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47796
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27724
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Nick Jr. Too (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/1293
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27725
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Nicktoons (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/1295
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27723
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Cartoon Network (UK)
-http://user.scalecdn.co:8080/09145054/65339468/650437
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27768
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Boomerang (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69234
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27769
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Cartoonito (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/1288
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27783
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",FreeForm (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2276
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pop (UK)
@@ -7913,7 +7915,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/pl
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Tiny Pop+ (UK)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Kids (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/85221
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57527
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Alibi (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69245
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Drama (UK)
@@ -7925,7 +7927,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/69220
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Gold (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69214
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&W (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2145
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27694
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Laughs (UK)
 https://amg00886-uktvmedialimite-uktvplaylaughs-samsunguk-ow1dn.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplaylaughs-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Real Heroes (UK)
@@ -7934,30 +7936,32 @@ https://amg00886-uktvmedialimite-uktvplayheroes-samsunguk-vy8op.amagi.tv/playlis
 https://amg00886-uktvmedialimite-uktvplayuncovered-samsunguk-pxi83.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayuncovered-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Transport (UK)
 https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49321
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103170
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pick TV (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2230
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14131
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pick Channel (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20622
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69221
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27754
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Watch (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2145
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Travel Channel (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2159
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Animal Planet (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69244
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19412
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Channel (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69226
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19528
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery History (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103285
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14156
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Science (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103287
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27755
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Discovery Turbo (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/29159
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19526
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Top Gear (UK)
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Investigation Discovery (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2266
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27743
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Investigation Discovery+ (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47783
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Mystery TV (UK)
@@ -7971,63 +7975,63 @@ https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd6670
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",World War TV (UK)
 https://blaze-fast-world-war-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-world-war-tv-amagi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Crime (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69170
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49034
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Witness (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69182
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41039
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Documentaries (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/73379
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49188
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Max (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/78006
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50150
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Nature (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77256
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49187
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Showcase (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/77990
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19452
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",History Channel (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69212
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19417
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",H2 (History Channel 2) (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2273
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27746
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",National Geographic Channel (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103294
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19554
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",NatGeo Wild (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69247
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14147
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Trace (UK)
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BET (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2344
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Comedy Central (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69229
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27759
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Comedy Central Extra (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103175
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27760
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Comedy (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47825
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19432
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Lifestyle (UK)
 https://cdn4.skygo.mn/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",So.. Real (UK)
 https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Food Network (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103290
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19415
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TLC (The Learning Channel) (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69175
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27704
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Paramount Network (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2174
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Challenge (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103173
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27766
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Game One (UK)
 https://viamotionhsi.netplus.ch/eds/gameone/browser-HLS8/gameone.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Blaze (UK)
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Quest (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69198
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27718
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",DMAX (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103177
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19437
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103171
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14176
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime +1 (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27767
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime Xtra (UK)
-http://kstv.us:8080/N427DpynGE/7049166651/47753
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14177
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Arts (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69195
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19446
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Atlantic (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69171
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19447
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Talking Pictures (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2166
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",AMC (UK)
@@ -8061,15 +8065,15 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TVSN (Austrailia)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",MUTV (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69258
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27727
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",UTV Ireland (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2150
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19964
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Racing.com (Austrailia)
 https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts.m3u8?__nn__=6064997784001&hdnea=st=1777113000~exp=1777116600~acl=/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/*~hmac=7cd7542ec7c9cc367db187b34c1a151f03e5abe31bf0ee06f3492fb149567020
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Racing TV (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69197
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/28011
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Willow Sports (UK)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Willow Cricket (UK)
@@ -8105,25 +8109,25 @@ http://user.scalecdn.co:8080/09145054/65339468/2286
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",EuroSports 2 (UK)
 http://user.scalecdn.co:8080/09145054/65339468/2285
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports Ultimate 4K (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/102119
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/60102
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 1 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/72997
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/16552
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 2 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/72998
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/16551
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 3 (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69236
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/16550
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 4 (UK)
-http://user.scalecdn.co:8080/09145054/65339468/675021
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/16549
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Premier Sports 1 (UK)
-http://user.scalecdn.co:8080/09145054/65339468/89089
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/58928
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Premier Sports 2 (UK)
-http://user.scalecdn.co:8080/09145054/65339468/89090
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/58927
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Red Bull TV (UK)
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",talkSport (UK)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sony Channel (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69180
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/50286
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sony Max (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69181
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sony Max 2 (UK)
@@ -8133,27 +8137,27 @@ http://user.scalecdn.co:8080/09145054/65339468/2151
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Movie24 (UK)
 http://kstv.us:8080/N427DpynGE/7049166651/47791
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Action (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69196
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19407
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Animation (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/94778
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Comedy (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69174
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Drama (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69192
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19405
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Drama & Romance (UK)
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19406
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Family (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69191
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19404
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Greats (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2203
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19401
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Hits (UK)
-http://user.scalecdn.co:8080/09145054/65339468/487358
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19402
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Premiere (UK)
-http://user.scalecdn.co:8080/09145054/65339468/2202
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19408
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69185
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19400
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Section (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69184
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19399
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Thriller (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69183
+http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/25582
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",QVC Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
