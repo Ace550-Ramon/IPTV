@@ -28,7 +28,7 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29447
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/WLNY_New_York_55_2023.svg/960px-WLNY_New_York_55_2023.svg.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48215
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48745
+http://31.43.191.125:8080/restream/restream/154790
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAQ-TV NBC 5 (Chicago IL)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/48043
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WLS-TV ABC 7 (Chicago IL)
@@ -82,7 +82,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/100709
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBZ-TV CBS 4 (Boston MA)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49433
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCVB-TV ABC 5 (Boston MA)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/47969
+http://31.43.191.125:8080/restream/restream/154501
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="Local Channels (Not 24/7)",WHDH-TV Ind. 7 (Boston MA)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/100071
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBTS-LD NBC 10 (Boston MA)
@@ -1508,7 +1508,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/95205
 http://user.scalecdn.co:8080/09145054/65339468/512983
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 https://kvcrdt.lls.pbs.org/lls/kvcrdt/kvcrdt-hls-drm/hls-drm.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCET-TV PBS 28 (Los Angeles CA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCET-TV "SoCal Plus" PBS 28 (Los Angeles CA)
 https://kcetdt.lls.pbs.org/kcetdt-hls_1080p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
 https://klcsdt.lls.pbs.org/lls/klcsdt/klcsdt-hls-drm/hls-drm.m3u8
@@ -2904,7 +2904,7 @@ https://p.maffiliates.net:2096/n24/SUZsBNHv12/82631
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Jr. (East)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44049
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (West)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/82282
+http://31.43.191.125:8080/restream/restream/154760
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (East)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44061
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Boomerang by Cartoon Network
@@ -3005,7 +3005,7 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/29890
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Start TV
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41302
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",DABL
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/94780
+http://31.43.191.125:8080/restream/restream/155045
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",fetv (Family Entertainment Television)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/59279
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Great. (Entertainment Television)
@@ -3141,7 +3141,7 @@ https://apollo-eks.production-public.tubi.io/live/maverick-black-cinema-fCrBU2.m
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Backstage
 https://cdn-uw2-prodv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (West)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69193
+http://31.43.191.125:8080/restream/restream/155101
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (East)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/44046
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AXS-TV
