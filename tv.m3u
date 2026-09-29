@@ -7821,13 +7821,21 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Alba (UK)
 https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 1 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19456
+http://176.65.153.4:4004/play/a07n/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 1 +1 (UK)
+http://176.65.153.4:4004/play/a07g/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 2 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19445
+http://176.65.153.4:4004/play/a07l/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 2 +1 (UK)
+http://176.65.153.4:4004/play/a07h/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 3 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19444
+http://176.65.153.4:4004/play/a07o/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 3 +1 (UK)
+http://176.65.153.4:4004/play/a07i/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 4 (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19443
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 4 +1 (UK)
+http://176.65.153.4:4004/play/a07j/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV Be (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69208
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV Quiz (UK)
@@ -7837,21 +7845,21 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19440
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Film4 (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27292
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19455
+http://176.65.153.4:4007/play/a074/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 Seven (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41041
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19454
+http://176.65.153.4:4003/play/a06m/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5+ (UK)
-http://bgdc.live:25461/folalawal@/4044225438/223251
+http://176.65.153.4:4003/play/a06i/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 USA (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27782
+http://176.65.153.4:4003/play/a06h/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Star (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27781
+http://176.65.153.4:4003/play/a06j/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Action (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/41040
+http://176.65.153.4:4003/play/a06n/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 Select (UK)
-http://bgdc.live:25461/folalawal@/4044225438/223478
+http://176.65.153.4:4003/play/a06k/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Virgin Media One (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/32135
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Virgin Media Two (UK)
@@ -7868,6 +7876,10 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20639
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20640
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE News Now (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69341
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! TV (UK)
+http://176.65.153.4:4004/play/a06c/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! TV +1 (UK)
+http://176.65.153.4:4004/play/a06m/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies (UK)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Mystery (UK)
@@ -7935,15 +7947,23 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/57527
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Alibi (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69245
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Drama (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/103179
+http://176.65.153.4:4007/play/a079/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Drama +1 (UK)
+http://176.65.153.4:4007/play/a07b/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Dave (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69227
+http://176.65.153.4:4007/play/a077/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&DaveJaVu (UK)
+http://176.65.153.4:4007/play/a07c/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Eden (UK)
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/69220
+http://176.65.153.4:4007/play/a075/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Gold (UK)
 https://p.maffiliates.net:2096/n24/SUZsBNHv12/69214
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&W (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27694
+http://176.65.153.4:4007/play/a078/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Yesturday (UK)
+http://176.65.153.4:4007/play/a076/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Yesturday +1 (UK)
+http://176.65.153.4:4007/play/a07d/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Laughs (UK)
 https://amg00886-uktvmedialimite-uktvplaylaughs-samsunguk-ow1dn.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplaylaughs-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Real Heroes (UK)
@@ -7953,9 +7973,11 @@ https://amg00886-uktvmedialimite-uktvplayuncovered-samsunguk-pxi83.amagi.tv/play
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Transport (UK)
 https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49321
+http://176.65.153.4:4004/play/a078/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14131
+http://176.65.153.4:4004/play/a06u/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra +1 (UK)
+http://176.65.153.4:4004/play/a070/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pick Channel (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/20622
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
@@ -8039,11 +8061,11 @@ http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27718
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",DMAX (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19437
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14176
+http://176.65.153.4:4004/play/a06y/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime +1 (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/27767
+http://176.65.153.4:4004/play/a07b/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime Xtra (UK)
-http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/14177
+http://176.65.153.4:4004/play/a06v/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Arts (UK)
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/19446
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Atlantic (UK)
