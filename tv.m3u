@@ -2580,6 +2580,8 @@ https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg0079
 https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",NASA TV
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/49184
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Atlas Channel
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Wingspan Air Space Channel
 https://wingspan-airandspace-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",The Real Disaster Channel
@@ -3020,6 +3022,10 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Walk Network
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Whiplash 2
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Grit TV
 http://etvhosts.site:55337/0WHezCJmF/rTy34cp4R6/37909
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Grit Xtra
@@ -5760,18 +5766,46 @@ https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",00s Replay (Pluto TV)
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Recent Releases
+https://jmp2.uk/plu-6aa043fe0c9f5239c2c508c2.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Trending Now
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Classic Movie Westerns (Pluto TV)
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Classic Movies Channel (Pluto TV)
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Reaction
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Spotlight
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Franchise Favorites
+https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Icons
+https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Comedy
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Drama
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Romance
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Thriller
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Terror
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",BET Cinema (Pluto TV)
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",BET Comedy Movies (Pluto TV)
@@ -7145,7 +7179,7 @@ http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-aut
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Monterey (México)
 http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel09secure-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8&redirect=true
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",24h Noticias
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",NTN24
 http://190.60.32.178:8178/play/a0ne/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Comercio
@@ -7191,11 +7225,11 @@ https://dai.google.com/linear/hls/event/j-Z_2JOSSByv4z2OibrTfw/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Venevisión Internacional
 https://pubads.g.doubleclick.net/ssai/event/4EZVJznARm6vHvBUVjnYsw/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",CNN Chile
-http://179.49.157.54:9973/play/a0w8/index.m3u8
+http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TV Chile
-http://167.249.23.102:8000/play/a06r/index.m3u8?hls
+http://168.196.127.137:6001/play/a03n/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Chilevisión
-https://p.maffiliates.net:2096/n24/SUZsBNHv12/71777
+http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",+Show
 https://dai.google.com/linear/hls/event/-AWPFPgOSYmzk76BOlpsHA/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",mas Talk
@@ -8335,11 +8369,11 @@ https://afghantv.app/hls4/ibctv/index.m3u8
 https://vietprocast.app/hls/p%26h/index.m3u8
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV
-http://31.43.191.125:8080/restream/restream/158684
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12135/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (Latin America)
-http://170.244.209.30:8000/play/a0kz/index.m3u8?hls
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6280/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (Europe)
-http://200.115.120.1:8000/play/ca97/index.m3u8?hls
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12135/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playhouse
 http://bgdc.live:25461/folalawal@/4044225438/180744
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Miami TV Live
