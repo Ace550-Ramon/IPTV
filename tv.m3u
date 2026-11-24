@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://platinumxmedia.xyz:80/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/807
+http://89.187.179.148:826/1368/gXwiagaXda/109405
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-http://barnsidetv.ddns.net:80/play/xjDgw79g7Y3Cp7BY6EU9oTXSjOxO2TCFlt_DYtSvoVU/ts
+http://89.187.179.148:826/1368/gXwiagaXda/109603
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
-http://platinumxmedia.xyz:80/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/27917
+http://89.187.179.148:826/1368/gXwiagaXda/98469
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
-http://barnsidetv.ddns.net:80/play/xjDgw79g7Y3Cp7BY6EU9oXTPq2EO6zUcS2Oo4M-x57Q/ts
+http://89.187.179.148:826/1368/gXwiagaXda/109800
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://barnsidetv.ddns.net:80/play/xjDgw79g7Y3Cp7BY6EU9oerVFewXBzQ9amgkiJnDKZ8/ts
+http://89.187.179.148:826/1368/gXwiagaXda/109404
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
-http://platinumxmedia.xyz:80/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/856
+http://89.187.179.148:826/1368/gXwiagaXda/109511
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
-http://barnsidetv.ddns.net:80/play/xjDgw79g7Y3Cp7BY6EU9oczKRPUrkPIdSEFu2AkxARA/ts
+http://89.187.179.148:826/1368/gXwiagaXda/109852
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
 http://barnsidetv.ddns.net:80/play/xjDgw79g7Y3Cp7BY6EU9objYa7tDb24PjiIfJ5cqYXg/ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
